@@ -1,6 +1,6 @@
 {
-  "name": "huesec",
-  "displayName": "Huesec",
+  "name": "klog",
+  "displayName": "klog",
   "version": "0.0.1",
   "description": "Personal control flow and self analysis",
   "author": "Hju Kneyck (hjucode@gmail.com)",
